@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Local database files
+tasks.db
+tasks.db.back
+tasks.db.bak
