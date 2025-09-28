@@ -1,9 +1,9 @@
-# Task Manager API 🚀
+# Task Manager API 
 
 A simple Task Manager API built with **FastAPI**, **PostgreSQL**, and **Docker**.  
 Supports user authentication (JWT) and task CRUD operations.  
 
-## 📦 Setup & Installation
+## Setup & Installation
 
 ### Prerequisites
 - Python 3.10+  
@@ -65,7 +65,7 @@ PUT /tasks/{id} → Update a task
 DELETE /tasks/{id} → Delete a task
 
 
-👉 Full interactive API docs available at:
+ Full interactive API docs available at:
 Swagger UI → http://127.0.0.1:8000/docs
 
 
@@ -111,7 +111,7 @@ task-manager-api/
 
 🌍 Deployment
 Deployed on Render
-🚀 Future Improvements
+ Future Improvements
 Add task categories/labels
 
 
